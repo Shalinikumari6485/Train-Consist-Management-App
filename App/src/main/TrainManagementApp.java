@@ -1,4 +1,4 @@
-//UC7 :- Sort Bogies by Capacity (Comparator)
+package main;//UC7 :- Sort Bogies by Capacity (Comparator)
 
 import java.util.ArrayList;
 import java.util.Collections;
